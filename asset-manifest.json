@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrathameshGujar08.github.io/static/css/main.e81824c1.css",
+    "main.js": "/PrathameshGujar08.github.io/static/js/main.771c1cdf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PrathameshGujar08.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PrathameshGujar08.github.io/index.html",
+    "main.e81824c1.css.map": "/PrathameshGujar08.github.io/static/css/main.e81824c1.css.map",
+    "main.771c1cdf.js.map": "/PrathameshGujar08.github.io/static/js/main.771c1cdf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PrathameshGujar08.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81824c1.css",
+    "static/js/main.771c1cdf.js"
+  ]
+}
