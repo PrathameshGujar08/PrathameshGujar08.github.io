@@ -12,7 +12,7 @@ export const MapRender = () =>{
   return (
     <>
     {/* xxxxxxxxxxxxxxxxxxx Shows Map xxxxxxxxxxxxxxxxxxxxxxxxx */}
-    <MapContainer center={[21.1458, 79.0882]} zoom={5}>
+    <MapContainer center={[21.1458, 79.0882]} zoom={5}> // React Leaflet map instance with child support
 
     <TileLayer 
       attribution="Map data &copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
